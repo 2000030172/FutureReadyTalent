@@ -45,7 +45,4 @@ ScreenShots of the Bot :
 Sample Video of the Project : 
 -----------------------------
 
-
-Uploading untitled_Q0vyOiF2.mp4…
-
-
+https://user-images.githubusercontent.com/96280332/168727519-3e1f9188-924a-4405-a03c-ab59494e6630.mp4
