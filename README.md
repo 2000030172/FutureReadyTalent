@@ -9,7 +9,7 @@ This is one of the chatbot application for the covid-19 updates to the users.
 2. Static webapps 
 3. Azure Bot Service
 
-Following are some key features of Azure Static Web Apps that made me choose this service :
+Following are some key features of Azure Static Web Apps that made me choose this service:
 ------------------------------------------------------------------------------------------
 
 1.Web hosting for static content like HTML, CSS, JavaScript, and images.
